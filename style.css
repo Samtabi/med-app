@@ -24,6 +24,23 @@
   flex-direction: column;
   flex: 1;
 }
+
+.sound-picker{
+
+  margin-right: 80px;
+}
+
+
+
+
+.time-select{
+  margin-left:  80px;
+
+}
+
+
+
+
 .time-select button,
 .sound-picker button {
   color: white;
