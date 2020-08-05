@@ -47,10 +47,10 @@
   width: 40%;
   height: 20%;
   background: none;
-  font-size: 20px;
+  font-size: 15px;
   border-radius: 5px;
   cursor: pointer;
-  border: 2px solid white;
+
   transition: all 0.5s ease;
 }
 
@@ -130,3 +130,4 @@ h4{ text-align: center;
 
 
  }
+
